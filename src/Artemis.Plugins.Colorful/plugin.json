@@ -1,0 +1,13 @@
+{
+  "Guid": "5AB22B31-A900-4894-948A-DAE73D8744C5",
+  "Name": "Colorful B760M ARGB",
+  "Description": "Direct HID control of the three 60-LED ARGB headers on Colorful BATTLE-AX B760M-PLUS S WIFI7.",
+  "Author": "Colorful plugin contributors",
+  "Icon": "LedStripVariant",
+  "Version": "1.0.3.0",
+  "Main": "Artemis.Plugins.Colorful.dll",
+  "AutoEnableProperties": true,
+  "RequiresAdmin": false,
+  "Platforms": "Windows",
+  "Api": "1.0.0"
+}
